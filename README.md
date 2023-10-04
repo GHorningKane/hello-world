@@ -1,10 +1,14 @@
-# hello-world
-Hey y'all, this is my hello world repsitory
+# comp333bartekgavin
+Homework 1 repository :). effective-pancake
 
-My name is GHorningKane :). 
-I'm **super** excited to do some codiing :). 
+Teammates: Ian, Bartek, Gavin
 
-[Wholesome doge meme](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fgpm2vdomtro21.png&f=1&nofb=1&ipt=393b47d32c483f1eb199072e23af9a3a57e3766910b7c9354a4e45d92256eb58&ipo=images)
+Purpose of the code: Display a mock landing page for a music discussion site :). 
 
+Repo contents: Some images (album covers), index.html (our website), style-sheet.css, sign-in.html, what da dog doing.gif which is an image for another site, dog-chilling.html, also in the repo, which we post in as an iframe, and a license file. And of course the readme, but you already know that :p.
 
-makign some new brilliant changes!
+How to run the file: 
+https://ghorningkane.github.io/comp333ianbartekgavin/
+is the link to our website from the repo, otherwise download the repo, and open index.html in a browser. 
+
+Work split was even :). We did have a lot of issues with github version control though haha, we got it worked out in the end.

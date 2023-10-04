@@ -1,0 +1,117 @@
+/* Purple styling call! */
+  #purple {
+    background-color: rgb(197, 106, 197);        
+    /* SDKL:FJKLJDFKLJSDF:LKSDJF */
+  }
+
+/* code for flex container */
+
+
+
+.menu-items a {
+  color:black
+}
+
+.home {
+  font-weight: bold;
+  background: rgb(134, 134, 219);
+  padding: 0.1em 0.7em;
+  border-radius: 5em;
+  text-decoration: none;
+}
+
+.song-rating {
+  font-weight: bold;
+  background: rgb(134, 134, 219);
+  padding: 0.1em 0.7em;
+  border-radius: 5em;
+  text-decoration: none;
+}
+
+.music-review {
+  font-weight: bold;
+  background: rgb(134, 134, 219);
+  padding: 0.1em 0.7em;
+  border-radius: 5em;
+  text-decoration: none;
+}
+
+.discussions {
+  font-weight: bold;
+  background: rgb(134, 134, 219);
+  padding: 0.1em 0.7em;
+  border-radius: 5em;
+  text-decoration: none;
+}
+
+.pricing {
+  font-weight: bold;
+  background: rgb(134, 134, 219);
+  padding: 0.1em 0.7em;
+  border-radius: 5em;
+  text-decoration: none;
+}
+
+.contact-us {
+  font-weight: bold;
+  background: rgb(134, 134, 219);
+  padding: 0.1em 0.7em;
+  border-radius: 5em;
+  text-decoration: none;
+}
+
+#spotify a {
+  color: green;
+}
+
+#apple a {
+  color: red;
+}
+
+#soundcloud a {
+  color:black;
+}
+
+
+
+  .flex-container {         
+    display: flex;
+    flex-wrap: wrap;
+    background-color: DodgerBlue;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+  width: 360px;
+  margin: 12px;
+  text-align: center;
+  line-height: 30px;
+  font-size: 16px;
+  }
+
+  .flex-container2 {         
+    display: flex;
+    flex-wrap: wrap;
+    background-color: olivedrab;
+  }
+
+  .flex-container2 > div {
+    background-color: orange;
+  width: 360px;
+  margin: 12px;
+  text-align: center;
+  line-height: 30px;
+  font-size: 16px;
+  }
+  
+
+.SwagDivRed{
+  /* border: 5px  red; */
+  background-color: salmon;
+  text-align: center;
+}
+.SwagDivBlue{
+  /* border: 5px  red; */
+  background-color: lightblue;
+  text-align: center;
+}
